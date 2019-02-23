@@ -1,0 +1,15 @@
+{
+  "name": "image-sharing-wrapper",
+  "version": "1.0.0",
+  "description": "This is the wrapper to server prod build of client",
+  "main": "app.js",
+  "repository": "https://github.com/morevolk-latei/Image-sharing-react.git",
+  "author": "Rizul Sharma",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "compression": "^1.7.3",
+    "express": "^4.16.4",
+    "express-static-gzip": "^1.1.3"
+  }
+}
